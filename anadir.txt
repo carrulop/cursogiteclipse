@@ -8,5 +8,8 @@ cambios para la prueba de gitHub OLE
 
 cambios para github 2
 
-Cambio hecho por compaÃ±ero
+Cambio hecho por compañero
+
+añado los cambios de la feature 1
+
 
