@@ -12,5 +12,3 @@ Cambio hecho por compañero
 Esto es un cambio desde GitHubL
 
 añado los cambios de la feature 1
-
-
